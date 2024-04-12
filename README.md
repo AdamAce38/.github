@@ -1,4 +1,4 @@
-# .github
+adamlaska.ivanov@gmail.com # .github
 
 *Community health files for the @GitHub organization*
 
